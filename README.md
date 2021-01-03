@@ -1,4 +1,12 @@
-### Hi there 👋
+### About Me
+- テックリード・スクラムマスター・フロントエンドエンジニア。修士（メディア科学（情報科学研究科））
+- TypeScript, React(Next.js), GraphQL, Node.js などを主に使っています
+- 「学び続けられるサービス」「ものづくり」「競馬とその周辺分野」に興味があります
+
+### Read More 
+- Blog: https://suzukalight.com/blog
+- About me: https://suzukalight.com/about
+- Contact: https://github.com/suzukalight/suzukalight/issues
 
 <!--
 **suzukalight/suzukalight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
